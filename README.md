@@ -1,10 +1,11 @@
 - 👋 Hi everyone! I’m Eduardo!
-- 👀 I’m pursuing a degree in Data Science
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking for an internship
+- 👀 I’m pursuing a degree in Data Science...
+- 🌱 ... currently learning Apache Airflow...
+- 💞️ ... looking for an internship in Data Engineering...
+- 🔧 ... working on an ETL process that encompasses bond assets and stocks. 
 - 😄 Pronouns: he/his
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -18,6 +19,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="40" height="40"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"  width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />         
+          
 </div>
 
 <!---
